@@ -52,9 +52,7 @@ function App() {
             <a href="#testimonials" className="text-gray-700 hover:text-primary-600 transition-colors">Testimonials</a>
           </nav>
           <a 
-            href="https://your-google-form-link.com" 
-            target="_blank" 
-            rel="noopener noreferrer"
+            href="#contact"
             className="btn-primary"
           >
             Get Started
@@ -73,9 +71,7 @@ function App() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in" style={{ animationDelay: '0.4s' }}>
             <a 
-              href="https://your-google-form-link.com" 
-              target="_blank" 
-              rel="noopener noreferrer"
+              href="#contact" 
               className="btn-primary"
             >
               Get My Supplies Now
